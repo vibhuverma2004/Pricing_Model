@@ -21,11 +21,6 @@ This project implements multiple option pricing models and provides functionalit
 
 ## Functionality  
 
-### Stock Data Fetching  
-
-- Fetch historical stock data for analysis and modeling.  
-- Visualize historical trends to better understand price movements.  
-
 ### Visualization  
 
 - Generate plots of stock prices to gain insights into historical performance and trends.  
